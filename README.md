@@ -1,1 +1,2 @@
 # EvenMoreFishPlugin-Japanese
+EvenMoreFishPluginを日本語化しました
